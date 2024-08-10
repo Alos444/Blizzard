@@ -1,6 +1,6 @@
 # Timeless Advisor
 
-![Home page image](./assets/images/timeless_readme.png)
+![Home page image](./client/assets/images/timeless_readme.png)
 
 ## Project Overview
 
@@ -175,4 +175,4 @@ Contributions are welcome! If you have improvements or bug fixes, please fork th
 
 Whether you're here to immerse yourself into some fun games or to explore the world of history or coding , we hope you have a great time. Enjoy the experience, and remember, every challenge is an opportunity to learn and grow. We wish you the best of luck and fun—may you come out as the ultimate winner!
 
-![Winning screen](./assets/images/win_readme.png)
+![Winning screen](./client/assets/images/win_readme.png)
